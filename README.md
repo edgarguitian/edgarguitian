@@ -6,20 +6,15 @@ Soy desarrollador de aplicaciones móviles desde hace más de 7 años.
 
 ## Tecnologías
 
-iOS ![iconios](https://github.com/edgarguitian/edgarguitian/assets/6595032/035bf56c-285b-40e3-9543-36f07920ff3f)
+![iconios](https://github.com/edgarguitian/edgarguitian/assets/6595032/035bf56c-285b-40e3-9543-36f07920ff3f)
+![iconswift-2](https://github.com/edgarguitian/edgarguitian/assets/6595032/d25d2009-502d-4e54-a834-2b08d1cede70)
 
+![iconswiftui-2](https://github.com/edgarguitian/edgarguitian/assets/6595032/f76711d6-1267-4f93-9bf1-0ebfc80e6a5b)
 
+![iconxcode-2](https://github.com/edgarguitian/edgarguitian/assets/6595032/b330e8c5-0f6c-4624-9970-2482e4830383)
 
-![iconswift](https://github.com/edgarguitian/edgarguitian/assets/6595032/2b2f8f70-7aa9-45a5-bf37-50efc05978a6)
+![iconfirebase-2](https://github.com/edgarguitian/edgarguitian/assets/6595032/d71c1606-5167-4663-be61-8ec8c4bfa9c3)
 
-
-![iconswiftui](https://github.com/edgarguitian/edgarguitian/assets/6595032/15df8c29-10bd-465b-9e5d-c6ffb548550c)
-
-
-![iconxcode](https://github.com/edgarguitian/edgarguitian/assets/6595032/fd686140-e0dd-4ea3-8c21-0ba968d4bf9e)
-
-
-![iconfirebase](https://github.com/edgarguitian/edgarguitian/assets/6595032/32a47855-f1d3-4d14-80b8-c9395371fd1e)
 
 
 Y alguna más...
