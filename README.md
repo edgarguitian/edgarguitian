@@ -6,7 +6,7 @@ Soy desarrollador de aplicaciones móviles desde hace más de 7 años.
 
 ## Tecnologías
 
-![iconios](https://github.com/edgarguitian/edgarguitian/assets/6595032/035bf56c-285b-40e3-9543-36f07920ff3f)
+iOS ![iconios](https://github.com/edgarguitian/edgarguitian/assets/6595032/035bf56c-285b-40e3-9543-36f07920ff3f)
 
 
 
