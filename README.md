@@ -2,7 +2,7 @@
 
 ## iOS Developer
 
-Soy desarrollador de aplicaciones móviles desde hace más de 7 años.
+Apasionado desarrollador de aplicaciones móviles con más de 7 años de experiencia en la creación de soluciones innovadoras y centradas en el usuario. He colaborado en el desarrollo completo de numerosas aplicaciones exitosas, desde la concepción hasta la implementación y mantenimiento continuo. 
 
 ## Tecnologías
 
