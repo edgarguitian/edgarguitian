@@ -1,4 +1,4 @@
-### Hola, mi nombre es Édgar Guitián 👋
+# Hola, mi nombre es Édgar Guitián 👋
 
 ## iOS Developer
 
