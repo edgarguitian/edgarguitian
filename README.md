@@ -4,7 +4,7 @@
 
 Apasionado desarrollador de aplicaciones móviles con más de 7 años de experiencia en la creación de soluciones innovadoras y centradas en el usuario. He colaborado en el desarrollo completo de numerosas aplicaciones exitosas, desde la concepción hasta la implementación y mantenimiento continuo. 
 
-## [GitHub Portfolio](https://github.com/edgarguitian/iOS-Developer-Portfolio/)
+### [GitHub Portfolio](https://github.com/edgarguitian/iOS-Developer-Portfolio/)
 
 ## Tecnologías
 
